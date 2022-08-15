@@ -1,0 +1,4 @@
+//https://ddb-authorization-api.herokuapp.com/
+### get user route
+GET http://localhost:8091/api/v1/consent/consent-screen
+
